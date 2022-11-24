@@ -40,3 +40,7 @@ C:\Users\cadadmin\source\repos\RoomReservation\RoomReservation\obj\Debug\Views\R
 C:\Users\cadadmin\source\repos\RoomReservation\RoomReservation\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\cadadmin\source\repos\RoomReservation\RoomReservation\obj\Debug\Views\MakeReservation.baml
 C:\Users\cadadmin\source\repos\RoomReservation\RoomReservation\obj\Debug\Views\ReservationListing.baml
+C:\Users\cadadmin\source\repos\RoomReservation\RoomReservation\bin\Debug\RoomReservation.exe.manifest
+C:\Users\cadadmin\source\repos\RoomReservation\RoomReservation\bin\Debug\RoomReservation.application
+C:\Users\cadadmin\source\repos\RoomReservation\RoomReservation\obj\Debug\RoomReservation.exe.manifest
+C:\Users\cadadmin\source\repos\RoomReservation\RoomReservation\obj\Debug\RoomReservation.application

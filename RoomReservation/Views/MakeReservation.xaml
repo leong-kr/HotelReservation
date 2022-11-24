@@ -15,7 +15,7 @@
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" FontSize="30" Text="Make Reservation"/>
+        <TextBlock Grid.Row="0" FontSize="30" Text="Make Reservation" Foreground="Red"/>
 
         <Grid Grid.Row="1">
             <Grid.RowDefinitions>
